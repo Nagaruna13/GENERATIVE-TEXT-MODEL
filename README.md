@@ -65,4 +65,8 @@ Jupyter Notebook
 
 └── requirements.txt # Optional file for dependency management
 
-OUTPUTS
+# OUTPUTS
+outputs 1
+![Image](https://github.com/user-attachments/assets/36e478d6-73ea-42bb-9a0e-44b4215620eb)
+# outputs 2
+![Image](https://github.com/user-attachments/assets/989b101e-6614-43e1-b249-db347c335fec)
