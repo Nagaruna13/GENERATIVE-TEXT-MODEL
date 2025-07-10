@@ -1,0 +1,19 @@
+1. Gradio
+For building the web user interface inside the notebook.
+Command:
+
+pip install gradio
+
+2. Transformers
+For accessing the GPT-2 model and tokenizer.
+You are using the latest development version from GitHub.
+Command:
+
+pip install git+https://github.com/huggingface/transformers.git
+
+3. TensorFlow
+Required to run the TFGPT2LMHeadModel since you are using the TensorFlow version of GPT-2.
+You should install a stable TensorFlow version compatible with your system (recommended tensorflow==2.14.0 or similar).
+Command:
+
+pip install tensorflow
